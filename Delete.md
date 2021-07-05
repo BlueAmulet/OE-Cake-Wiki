@@ -1,0 +1,3 @@
+**Delete** is a pseudo-material used to remove another material. It's not really a material, it doesn't burn, melt, evaporate, float, or sink, and it does not produce visible particles. Any material containing "Z" or Delete will instantly disappear when drawn. If you force it to [Pour](/Pour.md "Pour") with shift-Z, the material that pours is [Null](/Null.md "Null"). Using save file modification, it is possible to have "delete particles" on your screen, but they disappear as soon as the game is unpaused.
+
+When used with the Replace tool, you can safely remove particles of Rigid without breaking your creation.

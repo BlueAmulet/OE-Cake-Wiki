@@ -1,0 +1,3 @@
+## Custom material
+
+In OE-Cake, a Custom material (or custom element) is a material made by defining an Escape code while in [Mix Mode](/Mix%20Mode.md "Mix Mode") that differs in composition from [Standard materials](/Standard%20materials.md "Standard materials"). For example, the [Stacking](/Stacking.md "Stacking") [Laser](/Laser.md "Laser") material KILO, although containing attributes from [Rice](/Rice.md "Rice"), [Inflow](/Inflow.md "Inflow"), [Light](/Light.md "Light"), and [Outflow (Element)](/Outflow%20%28Element%29.md "Outflow (Element)"), it does not contain the implied materials of Rice (KEV), or Inflow (WIQ).

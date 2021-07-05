@@ -1,0 +1,2 @@
+![Domino effect with Rigid blocks](/images/Domino.png "fig:Domino effect with Rigid blocks")
+The **Domino Effect** is the result of several blocks of material (usually Rigid or one of its compounds) knocking each other down in a chain reaction. It can also refer to chain reactions in other situations. The effect is great for Rube Goldberg machines. But, due to OE-Ccake not having a very wide sandbox area by default, it is common to make a second, or even third, platform to take advantage of more space.

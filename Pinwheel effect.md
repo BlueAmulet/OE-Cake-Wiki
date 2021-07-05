@@ -1,0 +1,1 @@
+The pinwheel effect is part of the [Mochi-Jet reaction](/Mochi-Jet%20reaction.md "Mochi-Jet reaction") and occurs when 1 particle of jet hits 1 particle of mochi. it creates a sprial effect almost like a pinwheel.

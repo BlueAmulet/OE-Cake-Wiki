@@ -1,0 +1,1 @@
+**Ballast** particles are dummy particles that intentionally have no influence on the simulation. By carefully calibrating the number of particles, it becomes possible to advance a simulation even of small particles by a single frame. This allows changing the Parameters on a frame-by-frame basis, potentially allowing more advanced creations to be made.

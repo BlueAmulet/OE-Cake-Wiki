@@ -1,0 +1,1 @@
+When the [Parameter](/Parameters.md "Parameters") maxSpeed is turned to 0, materials in the Sandbox cannot move. Attempting to drag a material will rip a hole in it. Although normal materials cannot function in a maxSpeed 0 sandbox, [Spin-Charged Elastic](/Spin-Charged%20Elastic.md "Spin-Charged Elastic") will vibrate, and Pour/Inflow mode will still add particles.

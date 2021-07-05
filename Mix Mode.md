@@ -1,0 +1,7 @@
+In OE-Cake, there are several [Standard Materials](/Standard%20materials.md "Standard materials"). These can be mixed, to make brand new elements, by entering **Mix Mode**. These new elements have some of the properties of each of its constituents, and so makes it possible to create nearly anything. Contrasted with [Standard materials](/Standard%20materials.md "Standard materials"), materials made in mix mode (except the literal symbol-by-symbol combinations for standard materials themselves unless added) can be considered [Custom materials](/Custom%20materials.md "Custom materials").
+
+To make a new material, simply press "Esc", type in the shortcuts for the materials you want to add to the mix, and hit "Esc" once more. You can also hit "esc", click on an element to use as a base, and then type the rest in and hit "esc" again. This method actually adds all the standard properties of the material, so for example Fuel will also add Rigid. Typing a letter twice will cancel that element from the resultant material (e.g. FOOD == FD, outflow is cancelled out; FOOOD == FOD, outflow is cancelled and then re-added).
+
+There is no way to save mixed materials.
+
+[Category:mochi](/Categorymochi.md "Category:mochi") [Category:Water](/CategoryWater.md "Category:Water") [Category:Water vinegar](/CategoryWater%20vinegar.md "Category:Water vinegar") [Category:False tags](/CategoryFalse%20tags.md "Category:False tags")

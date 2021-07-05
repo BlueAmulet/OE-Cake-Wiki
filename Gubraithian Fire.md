@@ -1,0 +1,4 @@
+<img src="/images/Screen%20Shot%202018-10-07%20at%203.45.26%20PM.png" title="fig:Jet glowing with heat" width="220" height="220" alt="Jet glowing with heat" />
+**[Gubraithian Fire](https://harrypotter.wikia.com/wiki/Gubraithian_Fire)**, also known as **Everlasting Fire**, is created by combining [Jet](/Jet.md "Jet") and [Hot](/Heater.md "Heater") which burns forever. The [fire](/Fire%20%28shader%29.md "Fire (shader)") produced by this method looks different from normal Fire because of the force applied by Jet. It is named after the gift Dumbledor gives to the Giants in OOtP.
+
+It can be turned into a [meta material](/Meta%20Material.md "Meta Material") by editing the [Parameters](/Parameters.md "Parameters"), which makes it highly suitable for [Jetstreaming](/Jetstream.md "Jetstream"), producing many graphical effects.
