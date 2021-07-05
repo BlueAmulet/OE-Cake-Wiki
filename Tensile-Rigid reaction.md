@@ -4,4 +4,4 @@ Blocks of **RT**will "magnetically" stick to each other. Shapes made of RT will 
 
 This effect is partly responsible for the strange behavior of [Baker-Bertrand particles](/Baker-Bertrand%20particle.md "Baker-Bertrand particle"). The reaction can be used to partially counteract Rigid's rotational damping and permit more accurate rotation.
 
-[Category:Reactions](/CategoryReactions.md "Category:Reactions")
+[Category:Reactions](/Category_Reactions.md "Category:Reactions")

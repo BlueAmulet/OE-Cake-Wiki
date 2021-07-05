@@ -8,7 +8,7 @@ Melting pure [Elemental](/Materials.md "Materials") Snow produces Null. Mixing [
 
 ### Alternate Snow Physics
 
-<img src="/images/Screen%20Shot%202018-10-08%20at%203.58.35%20PM.png" title="fig:A-type Snow on the left, N-type Snow on the right" width="220" height="220" alt="A-type Snow on the left, N-type Snow on the right" />
+<img src="/images/Screen%20Shot%202018-10-08%20at%203.58.35%20PM.png" title="A-type Snow on the left, N-type Snow on the right" width="220" height="220" alt="A-type Snow on the left, N-type Snow on the right" />
 There are two types of Snow, which I have called A-type Snow (paint) and N-Type Snow (fluff) due to it's relation to the [Null](/Null.md "Null") element. The default Snow is N-type and has the usual behavior. A-type Snow flows like water but leaves behind a sticky surface coating, almost like paint.
 
 Making alt-snow is actually easy. The material AY is alt-snow, the material Y or NY is default Snow.

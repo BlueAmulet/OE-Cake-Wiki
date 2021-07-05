@@ -1,10 +1,8 @@
 This page is about the design and use of a particular machine that can be made in OE-Cake. Through the use of [Hydraulic Pressure](/Hydraulic%20Pressure.md "Hydraulic Pressure") it is possible to stretch elastic, storing energy to fling a projectile.
 
-<figure>
-<img src="/images/Screen%20Shot%202015-12-09%20at%2004.36.12.png" title="A hydraulically powered slingshot firing a large projectile|link=http://oecake.wikia.com/wiki/File:Screen_Shot_2015-12-09_at_04.36.12.png|right" width="288" height="288" alt="A hydraulically powered slingshot firing a large projectile|link=http://oecake.wikia.com/wiki/File:Screen_Shot_2015-12-09_at_04.36.12.png|right" /><figcaption aria-hidden="true"><code>A</code><code> </code><code>hydraulically</code><code> </code><code>powered</code><code> </code><code>slingshot</code><code> </code><code>firing</code><code> </code><code>a</code><code> </code><code>large</code><code> </code><code>projectile|link=</code><a href="http://oecake.wikia.com/wiki/File:Screen_Shot_2015-12-09_at_04.36.12.png%7Cright"><code>http://oecake.wikia.com/wiki/File:Screen_Shot_2015-12-09_at_04.36.12.png|right</code></a></figcaption>
-</figure>
+<img src="/images/Screen%20Shot%202015-12-09%20at%2004.36.12.png" title="A hydraulically powered slingshot firing a large projectile|link=http://oecake.wikia.com/wiki/File:Screen_Shot_2015-12-09_at_04.36.12.png|right" width="288" height="288" alt="A hydraulically powered slingshot firing a large projectile|link=http://oecake.wikia.com/wiki/File:Screen_Shot_2015-12-09_at_04.36.12.png|right" />
 
-<img src="/images/Building%20a%20Hydraulic%20Slingshot" title="fig:Building_a_Hydraulic_Slingshot" width="330" height="330" alt="Building_a_Hydraulic_Slingshot" />
+<img src="/images/Building%20a%20Hydraulic%20Slingshot" title="Building_a_Hydraulic_Slingshot" width="330" height="330" alt="Building_a_Hydraulic_Slingshot" />
 [Download the slingshot for your own use](https://drive.google.com/file/d/0Byuo3kklMe6rRU10dFllM0NaaFk/view)
 
 ### Usage
@@ -16,8 +14,8 @@ if you resize the window to your screen, make sure the slingshot is positioned i
 Constructing a slingshot requires understanding of these topics:
 
 -   [Linking Particles](/Linking%20particles.md "Linking particles")
--   \[<https://oecake.fandom.com/wiki/How_to_Build_a>...#Hoses Hoses\]
--   \[<https://oecake.fandom.com/wiki/How_to_Build_a>...#Pistons Pistons\]
+-   [Hoses](/How%20to%20Build%20a.md#Hoses "How to Build a...")
+-   [Pistons](/How%20to%20Build%20a.md#Pistons "How to Build a...")
 -   Type B [Spin-Charged Elastic](/Spin-Charged%20Elastic.md "Spin-Charged Elastic")
 
 The basic shape is easy. You can copy mine exactly. You need to link the parallel pistons, which synchronizes them, as well as generating lateral support to the piston heads for the elastic to attach. The hose is optional but I intended for mine to be aimable.

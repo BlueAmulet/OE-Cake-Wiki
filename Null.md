@@ -1,4 +1,4 @@
-![A-Null, N-Null, esc-A-Null, esc-N-Null](/images/Nulltypes.png "fig:A-Null, N-Null, esc-A-Null, esc-N-Null")![Null liquid](/images/Null.jpg "fig:Null liquid")The word **Null**is another way of saying the word nothing. The term "**Null**" is used to describe a few "hidden" materials. Null is always an inert fluid that just flows and doesn't have many interactions. It's essentially the default particles of OE-Cake.
+![A-Null, N-Null, esc-A-Null, esc-N-Null](/images/Nulltypes.png "A-Null, N-Null, esc-A-Null, esc-N-Null")![Null liquid](/images/Null.jpg "Null liquid")The word **Null**is another way of saying the word nothing. The term "**Null**" is used to describe a few "hidden" materials. Null is always an inert fluid that just flows and doesn't have many interactions. It's essentially the default particles of OE-Cake.
 
 Null does not burn, melt Snow, evaporate, or damage Elastic or String. This makes it useful when you need a liquid that does not interact with other important parts of your creation.
 
@@ -16,4 +16,4 @@ A-type Null can be mixed with [Snow](/Snow.md "Snow") to produce a new hidden ma
 
 There are some [more types of Null](/Extraneous%20Nulls.md "Extraneous Nulls"), but they can only be accessed by editing [save files](/.oec%20File.md ".oec File"). However, they act just like other types of Null.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

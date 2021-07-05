@@ -9,7 +9,7 @@ Compressed Particles
 ### Mochi
 
 Entanglement was observed very early but not recognized in the largest of [Mochibomb explosions](/Super-dense%20material.md "Super-dense material"). It is due to the limited quantity and resolution of randomness available to the game, causing particles to be delivered the same "random" value as other particles which would correlate their behavior.
-![Particle confined to being within a certain distance of a set of coordinates](/images/X-axis%20Particle%20Entanglement "fig:Particle confined to being within a certain distance of a set of coordinates")  
+![Particle confined to being within a certain distance of a set of coordinates](/images/X-axis%20Particle%20Entanglement "Particle confined to being within a certain distance of a set of coordinates")  
 
 ### String
 

@@ -1,10 +1,10 @@
-![Brittle. Bending, and then, breaking.](/images/Brittle.jpg "fig:Brittle. Bending, and then, breaking.")
+![Brittle. Bending, and then, breaking.](/images/Brittle.jpg "Brittle. Bending, and then, breaking.")
 **Brittle** is a standard material, it is a combination of [Elastic](/Elastic.md "Elastic") and Brittle. Brittle is useful for making things that are meant to be destroyed. Brittle can be used for advanced crumbling and shattering reactions. Brittle also works when combined with [String](/String.md "String"), the material BS, to make a fabric that tears. [Viscous](/Viscous.md "Viscous") + Elastic + Brittle makes a realistic "pencil eraser"-like material that seems less jello-like than normal Brittle.
 
 #### Uses
 
 Brittle is a special property added to Elastic or String that lets the particles separate if the force they experience passes a certain point. Changing Brittle's strength in the [Parameters](/Parameters.md "Parameters") allows you to make many different creations. With really low values you can make something that shatters into chunks with a gentle breeze. With really high values you can make "realistic" creations that act totally normal until they hit something too hard and break. Very precisely tuned Brittle values can be used to make pressure-sensing safety caps that rupture at a certain level. Brittle can be used in advanced crumbing and shattering reactions, for example simulating [fracture mechanics](https://en.wikipedia.org/wiki/Fracture_mechanics).
-<img src="/images/Screen%20Shot%202018-10-09%20at%2012.11.56%20AM.png" title="fig:Crystal Brittle being shattered. Notice the hexagonal arrangement of particles and the slightly different ripping. " width="220" height="220" alt="Crystal Brittle being shattered. Notice the hexagonal arrangement of particles and the slightly different ripping. " />
+<img src="/images/Screen%20Shot%202018-10-09%20at%2012.11.56%20AM.png" title="Crystal Brittle being shattered. Notice the hexagonal arrangement of particles and the slightly different ripping. " width="220" height="220" alt="Crystal Brittle being shattered. Notice the hexagonal arrangement of particles and the slightly different ripping. " />
 Crystal Brittle can be made by placing some Powder or Powder + Snow and allowing it to settle, then converting it into Brittle with the bucket tool. Powder and Snow both "settle" into a hexagonal lattice shape instead of the rectilinear lattice drawn by the Shape tool. Crystal Brittle is a couple percent more stiff and more strong than normal Brittle, and shatters in a slightly different way.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

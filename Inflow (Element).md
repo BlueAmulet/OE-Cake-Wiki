@@ -1,4 +1,4 @@
-![Various types of Inflow.](/images/Inflow.jpg "fig:Various types of Inflow.")
+![Various types of Inflow.](/images/Inflow.jpg "Various types of Inflow.")
 **Inflow**creates particles from a source. Although the default material is set to Water, when mixed with another element it becomes a source for it. Inflow particles can be a liquid, a solid, or a wall.
 
 Inflow only emits liquid when it touches something, including another Inflow particle. Any material will work, but a single point of Inflow does nothing. Once the reaction has started, the newly spawned particles often keep the reaction going. An Inflow source can be destroyed when combined with Powder or Fuel.

@@ -8,4 +8,4 @@ Phyzios, Inc, who once was a part of Prometech Software, Inc, has started the de
 
 the OE-Cake debug mode is a debugging module used in beta testing.it can only be used if the user has certain priveledges in OE-Cake.
 
-Research is still going on about said subject but debug mode has pictures.**![OE-Cake debug mode](/images/Oecake%20Debug%20Mode.png "fig:OE-Cake debug mode")**
+Research is still going on about said subject but debug mode has pictures.**![OE-Cake debug mode](/images/Oecake%20Debug%20Mode.png "OE-Cake debug mode")**

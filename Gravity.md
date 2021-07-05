@@ -2,4 +2,4 @@ Gravity is a very powerful tool in OE-cake. It lets you change the amount of gra
 
 This is an advanced idea, but Gravity is also affected by time. What this means is, if you are trying to make a really long simulation, the longer it is the more extreme the Gravity will seem. Imagine if you are making a timelapse video that is 30x faster than normal, everything will seem to fall 30x faster as well so you would need to set gravity to 1/30 to make things seem normal in the final video.
 
-[Category:Tools](/CategoryTools.md "Category:Tools")
+[Category:Tools](/Category_Tools.md "Category:Tools")

@@ -1,4 +1,4 @@
-`   `<img src="/images/Helper.png" title="fig:Helper.png" width="400" alt="Helper.png" />
+`   `<img src="/images/Helper.png" title="Helper.png" width="400" alt="Helper.png" />
 
 **OE-Cake Recipe Helper** is a Windows application developed with the aim of making testing and analyzing OE-Cake [recipes](/recipes.md "recipes") easier. <s>It can be downloaded from [here](http://code.google.com/p/oecake-recipe-helper/)</s>.
 
@@ -44,7 +44,7 @@ The original download no longer works. [This recompiled version](https://drive.g
 
 ## Uploading to the wiki
 
-`   `<img src="/images/Uploadtoweb.png" title="fig:The upload dialog box" width="350" alt="The upload dialog box" />
+`   `<img src="/images/Uploadtoweb.png" title="The upload dialog box" width="350" alt="The upload dialog box" />
 
 As of v0.3, Recipe Helper supports uploading recipes to the wiki's [Recipes](/Recipes.md "Recipes") list. Please use this feature responsibly.
 
@@ -64,4 +64,4 @@ As of v0.3, Recipe Helper supports uploading recipes to the wiki's [Recipes](/Re
 `       Select the section you wish to add the recipe to, then click 'Send to wiki'. A dialog box should pop up in a few seconds telling you that the operation has been successful!`
 
 `   *`  
-`       Note: The recipe will be added using the `[`special`` ``user`` ``account`](/UserOECake%20Recipe%20Helper.md "User:OECake Recipe Helper")` designed for this purpose.`
+`       Note: The recipe will be added using the `[`special`` ``user`` ``account`](/User_OECake%20Recipe%20Helper.md "User:OECake Recipe Helper")` designed for this purpose.`

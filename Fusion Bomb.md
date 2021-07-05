@@ -1,7 +1,7 @@
 The ''fusion bomb'' is a more advanced type of composite bomb. This is the design that has been used to create the most powerful of OE-Cake's nuclear bombs, and has several attractive advantages.
 
-<img src="/images/Screen%20Shot%202016-03-08%20at%2020.50.11.png" title="fig:Fusion bomb with impact trigger built into a missile. The rocket thruster is the material PIE and the charge in the center is the material EFI, which is extremely stable and allows the bomb to take many bumps and knocks without exploding." width="450" height="450" alt="Fusion bomb with impact trigger built into a missile. The rocket thruster is the material PIE and the charge in the center is the material EFI, which is extremely stable and allows the bomb to take many bumps and knocks without exploding." />
-<img src="/images/Screen%20Shot%202016-03-08%20at%2020.50.34.png" title="fig:Download the Fusion Bomb Missile for yourself" width="220" height="220" alt="Download the Fusion Bomb Missile for yourself" />
+<img src="/images/Screen%20Shot%202016-03-08%20at%2020.50.11.png" title="Fusion bomb with impact trigger built into a missile. The rocket thruster is the material PIE and the charge in the center is the material EFI, which is extremely stable and allows the bomb to take many bumps and knocks without exploding." width="450" height="450" alt="Fusion bomb with impact trigger built into a missile. The rocket thruster is the material PIE and the charge in the center is the material EFI, which is extremely stable and allows the bomb to take many bumps and knocks without exploding." />
+<img src="/images/Screen%20Shot%202016-03-08%20at%2020.50.34.png" title="Download the Fusion Bomb Missile for yourself" width="220" height="220" alt="Download the Fusion Bomb Missile for yourself" />
 
 ### Building a Fusion Bomb
 

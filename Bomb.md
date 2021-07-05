@@ -33,7 +33,7 @@ There are a few kinds of Nuclear Bombs, including:
 -   After you create the outer shell, erase a small rectangular area, make sure it is still contained in the shell. Once you have done this, erase a much larger box directly above the small one, DO NOT LET THE CHAMBERS MERGE. This chamber should take up the rest of the shell.
 -   Now you have created the outer shell for the bomb! Use a combination of Gas and Hot, put it smack-dab in the middle of lower chamber. Now use the bucket tool and fill the lower chamber with Mochi.
 -   Then, make a mixture with Inflow, Mochi, and Fuel. Put this in larger chamber.
--   Un-pause it, and bombs away!<img src="/images/ImpactJet.png" title="fig:Proper Contruction of a Impact/Jet Nuke" width="135" alt="Proper Contruction of a Impact/Jet Nuke" />
+-   Un-pause it, and bombs away!<img src="/images/ImpactJet.png" title="Proper Contruction of a Impact/Jet Nuke" width="135" alt="Proper Contruction of a Impact/Jet Nuke" />
 
 ### How to make the Jet/Impact Nuke
 
@@ -44,9 +44,7 @@ There are a few kinds of Nuclear Bombs, including:
 -   Choose IFG and put a large box under the light yellow stuff.
 -   Hit space, and BOOM!
 
-<figure>
-<img src="/images/TheNukeExplosion.png" title="Explosion of the IGHFD nuke...vaporizing George Bush." width="200" alt="Explosion of the IGHFD nuke...vaporizing George Bush." /><figcaption aria-hidden="true">Explosion of the IGHFD nuke...vaporizing George Bush.</figcaption>
-</figure>
+<img src="/images/TheNukeExplosion.png" title="Explosion of the IGHFD nuke...vaporizing George Bush." width="200" alt="Explosion of the IGHFD nuke...vaporizing George Bush." />
 
 ### Mix code to making an instant exploding Nuclear Bomb
 

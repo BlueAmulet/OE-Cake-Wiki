@@ -1,4 +1,4 @@
-![Stable Elastic matrix of particles separated by more than a particle's width](/images/Sparse%20elastic.png "fig:Stable Elastic matrix of particles separated by more than a particle's width")Sparse Elastic is a form of [Elastic](/Elastic.md "Elastic") usually produced through [save-file manipulation](/.oec%20File.md ".oec File"). It is possible to create a variant of it by manipulating Parameters to drive the particles apart, though I can't remember how right off.
+![Stable Elastic matrix of particles separated by more than a particle's width](/images/Sparse%20elastic.png "Stable Elastic matrix of particles separated by more than a particle's width")Sparse Elastic is a form of [Elastic](/Elastic.md "Elastic") usually produced through [save-file manipulation](/.oec%20File.md ".oec File"). It is possible to create a variant of it by manipulating Parameters to drive the particles apart, though I can't remember how right off.
 
 ## Uses
 

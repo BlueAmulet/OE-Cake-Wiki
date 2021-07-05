@@ -1,4 +1,4 @@
-![Jet-water with Mochi, Jet on its own, and being used to push Water through a wall.](/images/Jet.jpg "fig:Jet-water with Mochi, Jet on its own, and being used to push Water through a wall.")
+![Jet-water with Mochi, Jet on its own, and being used to push Water through a wall.](/images/Jet.jpg "Jet-water with Mochi, Jet on its own, and being used to push Water through a wall.")
 **Jet** is a material that adds force to things. Jet puts force on an object, making things speed up or get pushed out of the way. Jet is a "bossy" material that seems to have extra momentum even though it has the same weight and density as every other material.
 
 ### Uses
@@ -13,4 +13,4 @@ Jet is a bit of a cheat to make things move. A natural way to provide thrust on 
 
 Jet has "remote force" capabilities. When subjected to an extreme amount of force without being able to move out of the way, Jet particles will apply force outside of their physical location. This causes [forcefields](/Force%20Field.md "Force Field") to appear around Jet.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

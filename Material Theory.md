@@ -23,7 +23,7 @@ Within the game, materials are stored as a 32-bit number. However, it's better t
 Each [element](/Material.md "Material") has specific programming that alters how the particle behaves and interacts with other particles. Combinations of elements can allow extensively complex interactions to emerge naturally.
 
 Elements are the base property of a material that describes certain behavior. For example Brittle allows particles to "tear" if enough force is applied to them, however Brittle on it's own has absolutely no special behaviors and acts just like Null unless it is combined into a mixture containing String or Elastic.  
-![The numbers above and beside the table represent the hexadecimal encoding of each material in the save file\|alt=](/images/Elements.png "fig:The numbers above and beside the table represent the hexadecimal encoding of each material in the save file|alt=")
+![The numbers above and beside the table represent the hexadecimal encoding of each material in the save file\|alt=](/images/Elements.png "The numbers above and beside the table represent the hexadecimal encoding of each material in the save file|alt=")
 
 ### Save File Material Numbers
 

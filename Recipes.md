@@ -7,7 +7,7 @@ Focus on engineering with the basic materials, not chemistry.
 
 To make experimenting with recipes easier there is the [Recipe Helper](/Recipe%20Helper.md "Recipe Helper") application for Windows. Using the Recipe Helper is recommended, as if you do not know what you are doing when editing this page you can quite easily wreck the layout/formatting!
 
-To add a new recipe, use the {{[Recipe](/TemplateRecipe.md "Template:Recipe")}} template. The first parameter is the Recipe code , the second is the material properties. For example:
+To add a new recipe, use the {{[Recipe](/Template_Recipe.md "Template:Recipe")}} template. The first parameter is the Recipe code , the second is the material properties. For example:
 
 `{{Recipe|TEST|Material Properties}}`
 
@@ -48,7 +48,7 @@ If you see a recipe here that should be kept, add "KEEP" to the end of its descr
 
 Thank you for reading this.
 
-\~ [Rebmiami](/UserRebMiami1.md "User:RebMiami1")
+\~ [Rebmiami](/User_RebMiami1.md "User:RebMiami1")
 
 The page was previously organized by material, but that structure has proven impossible to maintain during the cleanup process. Until the cleanup is complete, the article will be one massive list.
 
@@ -413,6 +413,6 @@ The page was previously organized by material, but that structure has proven imp
 -   [Tools](/Tools.md "Tools")
 -   [Other techniques](/Other%20techniques.md "Other techniques")
 -   [Baker particle](/Baker%20particle.md "Baker particle")
--   [Nothing: the one mixture that can't go on the recipes page](/Nothing%20the%20one%20mixture%20that%20can%27t%20go%20on%20the%20recipes%20page.md "Nothing: the one mixture that can't go on the recipes page")
+-   [Nothing: the one mixture that can't go on the recipes page](/Nothing_%20the%20one%20mixture%20that%20can%27t%20go%20on%20the%20recipes%20page.md "Nothing: the one mixture that can't go on the recipes page")
 
-[Category:EXPLOSIVES](/CategoryEXPLOSIVES.md "Category:EXPLOSIVES") [Category:Cleanup required](/CategoryCleanup%20required.md "Category:Cleanup required")
+[Category:EXPLOSIVES](/Category_EXPLOSIVES.md "Category:EXPLOSIVES") [Category:Cleanup required](/Category_Cleanup%20required.md "Category:Cleanup required")

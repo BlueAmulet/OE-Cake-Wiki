@@ -1,4 +1,4 @@
-<img src="/images/Screen%20Shot%202016-05-09%20at%2001.46.33.png" title="fig:Demonstration of the floating menu on Windows" width="350" height="350" alt="Demonstration of the floating menu on Windows" />
+<img src="/images/Screen%20Shot%202016-05-09%20at%2001.46.33.png" title="Demonstration of the floating menu on Windows" width="350" height="350" alt="Demonstration of the floating menu on Windows" />
 Using the whole screen is possible on both OSX and Windows.
 
 ### Windows

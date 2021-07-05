@@ -1,4 +1,4 @@
-![Comparing the effectiveness of Wall and Jet+Wall at holding Dense](/images/Walls.png "fig:Comparing the effectiveness of Wall and Jet+Wall at holding Dense")
+![Comparing the effectiveness of Wall and Jet+Wall at holding Dense](/images/Walls.png "Comparing the effectiveness of Wall and Jet+Wall at holding Dense")
 **Wall** is a material that is fixed to its place and can't move. It is used in the [standard materials](/standard%20materials.md "standard materials") [Heater](/Heater.md "Heater"), [Cooler](/Cooler.md "Cooler"), [Inflow](/Inflow.md "Inflow") and [Outflow](/Outflow.md "Outflow"). If any of these materials is poured, the wall component is removed. Wall on its own is inert, nothing will react with it. However, when combined with other elements, it will react. For example, when combined with Water, it begins to put out any fire that touches it. Wall also sometimes has other objects pushed through it, such as when [Jet](/Jet.md "Jet") is placed on a container of [Water](/Water.md "Water"). When combined with Jet (JW), the resultant material is much harder to penetrate.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

@@ -1,4 +1,4 @@
-![OE-Cake working in Ubuntu 10.10 Desktop Edition.](/images/OE-Cake%20Linux%20Demo.png "fig:OE-Cake working in Ubuntu 10.10 Desktop Edition.")I know this tutorial will be simple, but people think it will be a chore just to get OE-Cake running on a non-Windows OS. It's not a chore and this tutorial will help you.
+![OE-Cake working in Ubuntu 10.10 Desktop Edition.](/images/OE-Cake%20Linux%20Demo.png "OE-Cake working in Ubuntu 10.10 Desktop Edition.")I know this tutorial will be simple, but people think it will be a chore just to get OE-Cake running on a non-Windows OS. It's not a chore and this tutorial will help you.
 
 <u>***STATUS:***</u>
 

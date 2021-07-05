@@ -23,7 +23,7 @@ The second method is [Spuit](/Spuit.md "Spuit"). If you create even one particle
 ## Properties
 
 On their own, extraneous nulls have absolutely no effect on the behavior of particles. They behave in the same manner as normal Null.
-![A block of R(β) resting on a block of OW(β) without being absorbed.](/images/Extraneous%20null.png "fig:A block of R(β) resting on a block of OW(β) without being absorbed.")
+![A block of R(β) resting on a block of OW(β) without being absorbed.](/images/Extraneous%20null.png "A block of R(β) resting on a block of OW(β) without being absorbed.")
 
 ### Outflow Filtering
 

@@ -1,11 +1,11 @@
 ## Alternate Download Sources
 
-\[<http://oecake.wikia.com/wiki/How_to_download_OE_CAKE>! How to Download OE-Cake!\]
+\[[http://oecake.wikia.com/wiki/How_to_download_OE_CAKE](/How%20to%20download%20OE%20CAKE.md)! How to Download OE-Cake!\]
 
 ## Trial Version Expired (Windows)
 
 This method was [found on Reddit](https://www.reddit.com/r/oeCake/comments/3rr6lb/help/).
-<img src="/images/3qAWUSV.png" title="fig:The problem some Windows users experience" width="220" height="220" alt="The problem some Windows users experience" />
+<img src="/images/3qAWUSV.png" title="The problem some Windows users experience" width="220" height="220" alt="The problem some Windows users experience" />
 If you want to make your own "patched" exe, follow these steps:
 
 ![An example setup for RunAsDate](/images/RunAsTime%20example.png "An example setup for RunAsDate")

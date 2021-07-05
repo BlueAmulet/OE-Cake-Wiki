@@ -3,7 +3,7 @@ An OE-Cake level is a sandbox with a user element, usually mixed with powder or 
 [Ninjagaiden from Sandcastle Forum](http://sandcastle.freeforums.org/member15.html)'s Hammer levels: [Set one](http://www.mediafire.com/download.php?timmzznfwzh)
 
 The goal here is to get your pink blob, box or other material into the green elastic in the white wall.
-[Gdude2002](/UserGdude2002.md "User:Gdude2002") 19:14, January 12, 2010 (UTC)
+[Gdude2002](/User_Gdude2002.md "User:Gdude2002") 19:14, January 12, 2010 (UTC)
 
 ## Tips for level makers
 

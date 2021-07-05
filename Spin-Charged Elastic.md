@@ -1,4 +1,4 @@
-!["Crosses" showing warps and distortions caused by the Elastic Particles inside the "lattice" with spin](/images/Picture%207.png "fig:"Crosses" showing warps and distortions caused by the Elastic Particles inside the "lattice" with spin")**Spin-Charged Elastic (SCE)** is a special form of [Elastic](/Elastic.md "Elastic") that has unique properties and uses. It is caused by either a glitch or a limitation of the game engine. The **Rotating Elastic glitch** is a different form of SCE, known as Type B.
+!["Crosses" showing warps and distortions caused by the Elastic Particles inside the "lattice" with spin](/images/Picture%207.png ""Crosses" showing warps and distortions caused by the Elastic Particles inside the "lattice" with spin")**Spin-Charged Elastic (SCE)** is a special form of [Elastic](/Elastic.md "Elastic") that has unique properties and uses. It is caused by either a glitch or a limitation of the game engine. The **Rotating Elastic glitch** is a different form of SCE, known as Type B.
 
 ### [Depolarized](/Polarization.md "Polarization") Elastic
 
@@ -18,7 +18,7 @@ Generally SCE Type A is created by dissociating the Elastic particles from their
 
 Type A Spin-Charged Elastic can be made by:
 
--   setting elasticCoefficient in the [Parameters](http://oecake.wikia.com/wiki/Parameters) to a value greater than 1.5, letting the elastic glitch out for about 30 seconds, then setting elasticCoefficient back to 0.5 - This sets the Elastic's internal repulsion to a high value, exploding the particles which remain tied to each other while glitching out randomly, then setting the internal force back to normal. Each particle returns to its original neighbors, but with an added spin value.
+-   setting elasticCoefficient in the [Parameters](/Parameters.md) to a value greater than 1.5, letting the elastic glitch out for about 30 seconds, then setting elasticCoefficient back to 0.5 - This sets the Elastic's internal repulsion to a high value, exploding the particles which remain tied to each other while glitching out randomly, then setting the internal force back to normal. Each particle returns to its original neighbors, but with an added spin value.
 -   setting elasticCoefficient to 0, sloshing the particles around a bit, then setting back to 0.5 - this temporarily disables Elastic physics, turning the particles into liquid. As they contact each other they will gently spin. Setting the value back will suck the particles back into a shape again but with significant internal stresses.
 
 <!-- -->
@@ -43,7 +43,7 @@ Charged Elastic can be uncharged/repolarized by painting the particles with the 
 
 #### Robert's Comb
 
-![Robert's Comb being used on a save file in [regex101](https://regex101.com/)](/images/Regex101.png "fig:Robert's Comb being used on a save file in regex101")
+![Robert's Comb being used on a save file in [regex101](https://regex101.com/)](/images/Regex101.png "Robert's Comb being used on a save file in regex101")
 It's possible to "comb" spin-charged elastic with save file editing. Because SCE is caused by extremely high rotation values, it can be fixed by setting rotation values to 0. This can be done manually, but is much faster if done with regular expressions.
 
 To use Robert's Comb, follow these steps:

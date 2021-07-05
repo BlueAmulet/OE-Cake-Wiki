@@ -1,4 +1,4 @@
-![A typical level.](/images/User.jpg "fig:A typical level.")
+![A typical level.](/images/User.jpg "A typical level.")
 The **User** element is an element that is controlled by the keyboard using the arrow keys. It is usually the centerpiece used in [Levels](/Levels.md "Levels") and is often mixed with other elements. The default material is User+Rigid.
 
 ### Uses
@@ -10,5 +10,5 @@ Though more difficult, User will still "jump" even when mixed with Gas, if it ha
 By modifying the *usersSpeedX/usersSpeedY* and *usersForceX/usersForceY* Parameters you can also create liquid or gaseous User that is always trying to move in a certain direction with a certain amount of force, which creates very interesting fluids. You can make Water that is extra "heavy" or "light" by having a tiny force pushing it up or down, affecting equilibrium. You can make a liquid that "falls up" with enough force, or Gas that is always blowing to one side. This effect will continue until you press a keyboard arrow key, and the *users* Parameter for that axis will be overridden by the keyboard and then return to zero when released.
 
 ![User jumping through an wall.
-(Animated Gif)](/images/User%20Skipping%20Wall.gif "fig:User jumping through an wall. (Animated Gif)")
+(Animated Gif)](/images/User%20Skipping%20Wall.gif "User jumping through an wall. (Animated Gif)")
 User can be mixed with Wall or Axis, allowing you to move these otherwise immutable materials. For example, you could hook a character to a piece of Wall+User with some String, and have a User-controlled character that tries to follow the Wall cursor as it moves. Setting the *usersSpeed* value pretty low allows you to very finely position pieces of User+Wall, which is extremely useful in attempting repairs on advanced creations or positioning parts with single-pixel accuracy.

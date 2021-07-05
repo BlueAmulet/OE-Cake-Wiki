@@ -1,4 +1,4 @@
-![Powder in its normal state, and then at the point of ignition.](/images/Powder.jpg "fig:Powder in its normal state, and then at the point of ignition.")
+![Powder in its normal state, and then at the point of ignition.](/images/Powder.jpg "Powder in its normal state, and then at the point of ignition.")
 **Powder** is an explosive, powdery substance. It explodes violently when contacted by Hot. Powder is easily the most versatile and complicated material in the game, with no fewer than 9 separate [Parameters](/Parameters.md "Parameters") having an effect on it's behaviour. Carefully tuning these parameters allows you to create things like sand, dirt, mud, clay, salt, icing sugar, and whatever other fine-grained substance you can imagine, as well as giving very fine control over how Powder explodes.
 
 ### Uses
@@ -17,4 +17,4 @@ Powder's physical density is directly controlled by *standardDistance* and *powd
 
 With some tuning, Powder can have many different behaviors.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

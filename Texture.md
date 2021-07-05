@@ -1,4 +1,4 @@
-![Rigid and Water textures. Click to see details.](/images/Textures.png "fig:Rigid and Water textures. Click to see details.")
+![Rigid and Water textures. Click to see details.](/images/Textures.png "Rigid and Water textures. Click to see details.")
 A **Texture** is a picture over a material. A texture is only well visible in Shader or Blob and Texture. Because liquids flow out almost immediately, they don't work as good. Some materials don't show the texture well:
 
 -   Water

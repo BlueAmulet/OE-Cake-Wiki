@@ -4,5 +4,5 @@ It is the result of the [Ø particle](/0%20particle.md "0 particle"), a disappea
 A simple equation to find the total energy(ies) of the particle(s) emitted from a deflection or split is $E= \\frac{\\Sigma s+\\Sigma b}{p}$, where E is the energy, Σs is the previous particle's spin, Σb is the previous particle's linear speed, and p is the number of new particles emitted. Use 1 for α, 2 for β, and 3 for γ (e.g. A γ-α particle has values of 3-1).
 Example, Let's say a γ-α Baker particle gets deflected into two new particles. Σs is 3(γ), And Σb is 1(α). So $\\frac{3+1}{2}=2$. This tells you that each particle is an α-α particle (1,1).
 If the new particles are bound together, then p = 1, and the total energy is simply the sum of the energies of the component particles.  
-![Fire_Blossoms](/images/Fire%20Blossoms "fig:Fire_Blossoms")
+![Fire_Blossoms](/images/Fire%20Blossoms "Fire_Blossoms")
 For a somewhat easy to see 4-dimensional visualization of this reaction in progress, check out this video. The spiral structures are stable Baker-Bertrand particles caused by a sub-critical number of Tensile particles being in orbit. The erratic spiky structures are critical-mass particles that are unable to be self-stable. As individual particles burn out, the masses of the structures change, casting momentum away and changing the rotation.

@@ -1,4 +1,4 @@
-![A labelled OE-Cake interface. Click to see.\|480x480px](/images/OECakeOpen.png "fig:A labelled OE-Cake interface. Click to see.|480x480px")In this article, you can read about the interface, controls and tools in OE-Cake.
+![A labelled OE-Cake interface. Click to see.\|480x480px](/images/OECakeOpen.png "A labelled OE-Cake interface. Click to see.|480x480px")In this article, you can read about the interface, controls and tools in OE-Cake.
 
 ## Canvas
 
@@ -24,7 +24,7 @@ These tools affect various different settings in the Sandbox.
 
 ## Tools
 
-<img src="/images/T.png" title="fig:Tools pane seen in OSX" width="316" height="316" alt="Tools pane seen in OSX" />
+<img src="/images/T.png" title="Tools pane seen in OSX" width="316" height="316" alt="Tools pane seen in OSX" />
 The interaction tools change what your mouse does in the Sandbox. Click to use them.
 
 -   <u>Drawing tools</u>
@@ -45,7 +45,7 @@ The interaction tools change what your mouse does in the Sandbox. Click to use t
 
 ## Graphics Options
 
-![Points view](/images/Points.jpg "fig:Points view") ![Crosses View](/images/Crosses.jpg "fig:Crosses View")
+![Points view](/images/Points.jpg "Points view") ![Crosses View](/images/Crosses.jpg "Crosses View")
 
 ### View Modes
 
@@ -55,7 +55,7 @@ Graphics options allow you to set the graphics as you want them. They can make O
 -   Load Foreground: This lets you load an image to have in front of your elements. Click Unload to remove it.
 -   Load Background: Same as above, but behind your elements. Hit Unload to remove it.
 
-![Circles/blurred cirles view](/images/Circles.jpg "fig:Circles/blurred cirles view") ![Blob/blob and texture view](/images/Circles.jpg "fig:Blob/blob and texture view")
+![Circles/blurred cirles view](/images/Circles.jpg "Circles/blurred cirles view") ![Blob/blob and texture view](/images/Circles.jpg "Blob/blob and texture view")
 
 -   Load Fire Texture: Set an image as the "fire" particles that Fire gives off when it's burning. Hit Unload to reset.
 -   Load Splash/Bubble Texture: Set an image to use for these two water effects. Hit Unload to reset.
@@ -64,7 +64,7 @@ Graphics options allow you to set the graphics as you want them. They can make O
 
 ### Fullscreen Mode
 
-Fullscreen mode in Windows can be accomplished by dragging the menu off the side of the window. See the [Fullscreen](/Fullscreen.md "Fullscreen") article for more info. ![Shader View](/images/Shader.jpg "fig:Shader View")
+Fullscreen mode in Windows can be accomplished by dragging the menu off the side of the window. See the [Fullscreen](/Fullscreen.md "Fullscreen") article for more info. ![Shader View](/images/Shader.jpg "Shader View")
 
 ## Shortcuts
 

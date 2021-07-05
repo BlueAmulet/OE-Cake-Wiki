@@ -29,9 +29,7 @@ Simply copying everything from one save to another (except the header and Parame
 9.  Save the file with the text editor and *make sure* the file ends in .oec
 10. Open in OE-Cake and enjoy two copies of your shape.  
 
-<figure>
-<img src="/images/Two%20Stroke%20Double-Action%20Jet%20Powered%20Buggy" title="An example video of a creation in OE-Cake that was partially made using the copy and paste technique. Jump to 8:00 for the demonstration|none" width="330" alt="An example video of a creation in OE-Cake that was partially made using the copy and paste technique. Jump to 8:00 for the demonstration|none" /><figcaption aria-hidden="true">An example video of a creation in OE-Cake that was partially made using the copy and paste technique. Jump to 8:00 for the demonstration|none</figcaption>
-</figure>
+<img src="/images/Two%20Stroke%20Double-Action%20Jet%20Powered%20Buggy" title="An example video of a creation in OE-Cake that was partially made using the copy and paste technique. Jump to 8:00 for the demonstration|none" width="330" alt="An example video of a creation in OE-Cake that was partially made using the copy and paste technique. Jump to 8:00 for the demonstration|none" />
 
 #### Texture remapping
 
@@ -58,7 +56,7 @@ NOTE: If you are printing detailed, antialiased, or blurry images, you are likel
 7\.  If you did not use transparency or postprocess your image, you will likely need to delete the (apparently) invisible background particles from around your object. If you made your object with multiple colors, it is easy to make each part of a different material, for example making multiple missiles for a launcher. You can use the Material viewing mode (hotkey: 0) to check whether you deleted all of the background material. 
 
 Extra: If you want to print detailed and accurate photographs/real images into OE-Cake, set StandardDistance to 0.1. This works best if they are pretty small because you're printing a \*lot\* of particles all at once. However StandardDistance at 0.2 is adequate. 
-<img src="/images/Nu9abrB.png.jpg" title="fig:A screenshot inserted into the game with StandardDistance=0.2 and Viewing Mode Circles" width="220" height="220" alt="A screenshot inserted into the game with StandardDistance=0.2 and Viewing Mode Circles" /> 
+<img src="/images/Nu9abrB.png.jpg" title="A screenshot inserted into the game with StandardDistance=0.2 and Viewing Mode Circles" width="220" height="220" alt="A screenshot inserted into the game with StandardDistance=0.2 and Viewing Mode Circles" /> 
 
 ### Advanced
 

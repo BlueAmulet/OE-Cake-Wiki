@@ -1,4 +1,4 @@
-<span>Pshh! It's for </span>*editing*<span> of course!</span>![*The logo of the OE-Cake Wiki.*\|none](/images/Logo.png "fig:The logo of the OE-Cake Wiki.|none")
+<span>Pshh! It's for </span>*editing*<span> of course!</span>![*The logo of the OE-Cake Wiki.*\|none](/images/Logo.png "The logo of the OE-Cake Wiki.|none")
 
 \<!--
 
@@ -28,7 +28,7 @@ The main page design code follows. Edit me!!!
 
 *[OE-Cake!](http://www.octaveengine.com/en_casual/oecake) is a 2.5D fluids-based demonstration program for Prometech Software Inc's Octave Engine. In the program, which acts as a physics-based paint program, users can insert [objects](/object.md "object") and see them interact under the laws of physics. It has an advanced fluid simulation, and support for things as [gases](/gas.md "gas"), [rigid](/rigid.md "rigid") objects or even [elastic](/elastic.md "elastic"). With the [escape-codes](/Mix%20Mode.md "Mix Mode"), users can also mix the properties of [elements](/Material.md "Material") together. You can also add pictures to the simulation!!!*
 
--   [Background Color](http://oecake.wikia.com/wiki/Background_Color)
+-   [Background Color](/Background%20Color.md)
 -   [Baker-Bertrand Particle](/Baker-Bertrand%20particle.md "Baker-Bertrand particle")
 -   [Screen Size](/Screen%20Size.md "Screen Size")
 -   [Cut Content](/Cut%20Content.md "Cut Content")
@@ -43,8 +43,8 @@ The main page design code follows. Edit me!!!
 
   
 <big>**Welcome to the **</big>**!**  
-The wiki about OE-Cake that [anyone can edit](/HelpEditing.md "Help:Editing")  
-[ articles](/SpecialStatistics.md "Special:Statistics") since July 2008
+The wiki about OE-Cake that [anyone can edit](/Help_Editing.md "Help:Editing")  
+[ articles](/Special_Statistics.md "Special:Statistics") since July 2008
 
 </div>
 <div style="text-align: center;">
@@ -64,8 +64,8 @@ The Basics
 
 Advanced OE-Cake  
 
--   [view all pages](/SpecialAllpages.md "Special:Allpages") to find new stuff
--   Crafting [Circles](http://oecake.wikia.com/wiki/Circles_(Crafting)), to draw better
+-   [view all pages](/Special_Allpages.md "Special:Allpages") to find new stuff
+-   Crafting [Circles](/Circles%20%28Crafting%29.md), to draw better
 -   [Linking particles](/Linking%20particles.md "Linking particles") is the root of complex creations
 -   The [Parameters](/Parameters.md "Parameters") allow complete control
 -   [How to Build a...](/How%20to%20Build%20a.md "How to Build a...") thing you don't know how to build
@@ -133,19 +133,19 @@ The OE-Cake wiki has reached 100 articles! 
 
 Not sure where to start?  
 
--   Find out more about the wiki on the **[About](/ProjectAbout.md "Project:About")** page.
--   If you are new to wikis, check out the **[tutorial](/WikiaHelpTutorial%201.md "Wikia:Help:Tutorial 1")**.
--   Check out **[Help:Starting this wiki](/wchelpHelpStarting%20this%20wiki.md "w:c:help:Help:Starting this wiki")** if you're setting up the wiki.
+-   Find out more about the wiki on the **[About](/Project_About.md "Project:About")** page.
+-   If you are new to wikis, check out the **[tutorial](/Wikia_Help_Tutorial%201.md "Wikia:Help:Tutorial 1")**.
+-   Check out **[Help:Starting this wiki](/w_c_help_Help_Starting%20this%20wiki.md "w:c:help:Help:Starting this wiki")** if you're setting up the wiki.
 
 Adding content  
 
--   Every wiki has two list of articles that need help called **["Stubs"](/CategoryArticle%20stubs.md ":Category:Article stubs")** and **["Wanted Articles"](/SpecialWantedpages.md "Special:Wantedpages")**. Don't be shy, get in there.
--   Uploading [images](/CategoryImages.md ":Category:Images") is another really easy way to help out - see the **[Special:Upload](/SpecialUpload.md "Special:Upload")** page!
--   You can find a list of useful templates on [:Category:Templates](/CategoryTemplates.md ":Category:Templates"), some of which are documented on the **[templates project page](/ProjectTemplates.md "Project:Templates")**.
+-   Every wiki has two list of articles that need help called **["Stubs"](/_Category_Article%20stubs.md ":Category:Article stubs")** and **["Wanted Articles"](/Special_Wantedpages.md "Special:Wantedpages")**. Don't be shy, get in there.
+-   Uploading [images](/_Category_Images.md ":Category:Images") is another really easy way to help out - see the **[Special:Upload](/Special_Upload.md "Special:Upload")** page!
+-   You can find a list of useful templates on [:Category:Templates](/_Category_Templates.md ":Category:Templates"), some of which are documented on the **[templates project page](/Project_Templates.md "Project:Templates")**.
 
 Talk and more...  
 
--   Check out the **[community portal](/ProjectCommunity%20Portal.md "Project:Community Portal")** to see what the community is working on, to give feedback or just to say hi.
+-   Check out the **[community portal](/Project_Community%20Portal.md "Project:Community Portal")** to see what the community is working on, to give feedback or just to say hi.
 
 <mainpage-endcolumn />  
 
@@ -177,7 +177,7 @@ The main page design code follows. Edit me!!!
 
 *[OE-Cake!](http://www.octaveengine.com/en_casual/oecake) is a 2.5D fluids-based demonstration program for Prometech Software Inc's Octave Engine. In the program, which acts as a physics-based paint program, users can insert [objects](/object.md "object") and see them interact under the laws of physics. It has an advanced fluid simulation, and support for things as [gases](/gas.md "gas"), [rigid](/rigid.md "rigid") objects or even [elastic](/elastic.md "elastic"). With the [escape-codes](/Mix%20Mode.md "Mix Mode"), users can also mix the properties of [elements](/Material.md "Material") together. You can also add pictures to the simulation!!!*
 
--   [Background Color](http://oecake.wikia.com/wiki/Background_Color)
+-   [Background Color](/Background%20Color.md)
 -   [Baker-Bertrand Particle](/Baker-Bertrand%20particle.md "Baker-Bertrand particle")
 -   [Screen Size](/Screen%20Size.md "Screen Size")
 -   [Cut Content](/Cut%20Content.md "Cut Content")
@@ -192,8 +192,8 @@ The main page design code follows. Edit me!!!
 
   
 <big>**Welcome to the **</big>**!**  
-The wiki about OE-Cake that [anyone can edit](/HelpEditing.md "Help:Editing")  
-[ articles](/SpecialStatistics.md "Special:Statistics") since July 2008
+The wiki about OE-Cake that [anyone can edit](/Help_Editing.md "Help:Editing")  
+[ articles](/Special_Statistics.md "Special:Statistics") since July 2008
 
 </div>
 <div style="text-align: center;">
@@ -213,8 +213,8 @@ The Basics
 
 Advanced OE-Cake  
 
--   [view all pages](/SpecialAllpages.md "Special:Allpages") to find new stuff
--   Crafting [Circles](http://oecake.wikia.com/wiki/Circles_(Crafting)), to draw better
+-   [view all pages](/Special_Allpages.md "Special:Allpages") to find new stuff
+-   Crafting [Circles](/Circles%20%28Crafting%29.md), to draw better
 -   [Linking particles](/Linking%20particles.md "Linking particles") is the root of complex creations
 -   The [Parameters](/Parameters.md "Parameters") allow complete control
 -   [How to Build a...](/How%20to%20Build%20a.md "How to Build a...") thing you don't know how to build
@@ -282,18 +282,18 @@ The OE-Cake wiki has reached 100 articles! 
 
 Not sure where to start?  
 
--   Find out more about the wiki on the **[About](/ProjectAbout.md "Project:About")** page.
--   If you are new to wikis, check out the **[tutorial](/WikiaHelpTutorial%201.md "Wikia:Help:Tutorial 1")**.
--   Check out **[Help:Starting this wiki](/wchelpHelpStarting%20this%20wiki.md "w:c:help:Help:Starting this wiki")** if you're setting up the wiki.
+-   Find out more about the wiki on the **[About](/Project_About.md "Project:About")** page.
+-   If you are new to wikis, check out the **[tutorial](/Wikia_Help_Tutorial%201.md "Wikia:Help:Tutorial 1")**.
+-   Check out **[Help:Starting this wiki](/w_c_help_Help_Starting%20this%20wiki.md "w:c:help:Help:Starting this wiki")** if you're setting up the wiki.
 
 Adding content  
 
--   Every wiki has two list of articles that need help called **["Stubs"](/CategoryArticle%20stubs.md ":Category:Article stubs")** and **["Wanted Articles"](/SpecialWantedpages.md "Special:Wantedpages")**. Don't be shy, get in there.
--   Uploading [images](/CategoryImages.md ":Category:Images") is another really easy way to help out - see the **[Special:Upload](/SpecialUpload.md "Special:Upload")** page!
--   You can find a list of useful templates on [:Category:Templates](/CategoryTemplates.md ":Category:Templates"), some of which are documented on the **[templates project page](/ProjectTemplates.md "Project:Templates")**.
+-   Every wiki has two list of articles that need help called **["Stubs"](/_Category_Article%20stubs.md ":Category:Article stubs")** and **["Wanted Articles"](/Special_Wantedpages.md "Special:Wantedpages")**. Don't be shy, get in there.
+-   Uploading [images](/_Category_Images.md ":Category:Images") is another really easy way to help out - see the **[Special:Upload](/Special_Upload.md "Special:Upload")** page!
+-   You can find a list of useful templates on [:Category:Templates](/_Category_Templates.md ":Category:Templates"), some of which are documented on the **[templates project page](/Project_Templates.md "Project:Templates")**.
 
 Talk and more...  
 
--   Check out the **[community portal](/ProjectCommunity%20Portal.md "Project:Community Portal")** to see what the community is working on, to give feedback or just to say hi.
+-   Check out the **[community portal](/Project_Community%20Portal.md "Project:Community Portal")** to see what the community is working on, to give feedback or just to say hi.
 
 <mainpage-endcolumn />  

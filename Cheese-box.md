@@ -1,6 +1,4 @@
-<figure>
-<img src="/images/Cheesebox.jpg" title="(Don&#39;t try this with a slow computer)" width="244" alt="(Don&#39;t try this with a slow computer)" /><figcaption aria-hidden="true">(Don't try this with a slow computer)</figcaption>
-</figure>
+<img src="/images/Cheesebox.jpg" title="(Don&#39;t try this with a slow computer)" width="244" alt="(Don&#39;t try this with a slow computer)" />
 
 #### **Cheese-box**
 

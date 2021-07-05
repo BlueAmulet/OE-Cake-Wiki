@@ -8,4 +8,4 @@ Pour becomes rain when backslash is pressed (/)
 
 For more, see [Tools](/Tools.md "Tools").
 
-[Category:Tools](/CategoryTools.md "Category:Tools")
+[Category:Tools](/Category_Tools.md "Category:Tools")

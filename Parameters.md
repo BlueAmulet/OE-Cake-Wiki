@@ -133,7 +133,7 @@ Notably absent from the Parameters are any settings for [Rice](/Rice.md "Rice"),
     -   The default setting is also pretty close to the settling density of all of the fluids, ie. Viscous, Powder, Water, and the others. This means that when you use the Bucket tool to fill an area, the fluid doesn't splash much and settles quickly. The settling density of Water is actually a little bit closer to 0.7  
     -   Strongly affects how [Inflow](/Inflow.md "Inflow") and [Powder](/Powder.md "Powder") handle
         -   Inflow is doubly affected: the denser the original block of Inflow is drawn, the more powerful it will try to Inflow. Also, *standardDistance* values change how powerful the flow of Inflow is. Use this double sensitivity to make Inflow that works as you need it to at any *standardDistance* value  
-        -   The settling density of Powder is directly determined by *standardDistance*. It seems as if the particle size is determined by the parameter, because Powder with low *standardDistance*values will easily flow through cracks. Setting to an extreme value will cause Powder to have very strange physics. For example it is through this reaction that the [Powder-Snow Reaction](http://oecake.wikia.com/wiki/Powder-Snow_Reaction) occurs.  
+        -   The settling density of Powder is directly determined by *standardDistance*. It seems as if the particle size is determined by the parameter, because Powder with low *standardDistance*values will easily flow through cracks. Setting to an extreme value will cause Powder to have very strange physics. For example it is through this reaction that the [Powder-Snow Reaction](/Powder-Snow%20Reaction.md) occurs.  
         -   Changing the *standardDistance* of Powder strongly changes it's physical properties, giving another degree of freedom with which to modify Powder's behavior  
 
 <!-- -->
@@ -236,7 +236,7 @@ Notably absent from the Parameters are any settings for [Rice](/Rice.md "Rice"),
     -   The stretchiness between two Elastic particles seems to follow a linear scale. Elastic has a high internal stiffness, and while stretching it smoothly gets harder and harder to pull apart  
     -   Set to 0.9 to produce a strange, [glass-like substance](/Glass%20Elastic.md "Glass Elastic") (view in Crosses)  
     -   Set to 1 to cause Elastic to... uh, explode  
-    -   Set to 3 to easily create [Spin-Charged Elastic](http://oecake.wikia.com/wiki/Spin-Charged_Elastic)  
+    -   Set to 3 to easily create [Spin-Charged Elastic](/Spin-Charged%20Elastic.md)  
 
 <!-- -->
 

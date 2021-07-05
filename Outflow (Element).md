@@ -1,4 +1,4 @@
-![Outflow doing what it does best.](/images/Outflow.jpg "fig:Outflow doing what it does best.")
+![Outflow doing what it does best.](/images/Outflow.jpg "Outflow doing what it does best.")
 **Outflow** is a material that deletes other materials. By default it is black Wall. Liquid Outflow is possible. Outflow does not delete other materials it is mixed with, for example QO (Water + Outflow) will not delete Water but will delete anything else.
 
 ### Uses
@@ -7,4 +7,4 @@ Outflow's selective deletion is actually extremely useful for acting as a "filte
 
 Outflow also has "remote force" capabilities. When combined with Jet, Outflow's ability to delete can be extended some distance away from the actual Outflow particles when subjected to extremely high forces. This could allow the creation of destructive forcefields.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

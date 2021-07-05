@@ -1,7 +1,7 @@
-<img src="/images/Screen%20Shot%202015-12-09%20at%2020.43.49.png" title="fig:Screen_Shot_2015-12-09_at_20.43.49.png" width="220" height="220" alt="Screen_Shot_2015-12-09_at_20.43.49.png" />
-<img src="/images/Screen%20Shot%202015-12-09%20at%2020.43.58.png" title="fig:Screen_Shot_2015-12-09_at_20.43.58.png" width="220" height="220" alt="Screen_Shot_2015-12-09_at_20.43.58.png" />
-<img src="/images/Screen%20Shot%202015-12-09%20at%2020.44.05.png" title="fig:Screen_Shot_2015-12-09_at_20.44.05.png" width="220" height="220" alt="Screen_Shot_2015-12-09_at_20.44.05.png" />
-<img src="/images/Screen%20Shot%202015-12-09%20at%2020.44.15.png" title="fig:The effect of scale on canvas size" width="220" height="220" alt="The effect of scale on canvas size" />
+<img src="/images/Screen%20Shot%202015-12-09%20at%2020.43.49.png" title="Screen_Shot_2015-12-09_at_20.43.49.png" width="220" height="220" alt="Screen_Shot_2015-12-09_at_20.43.49.png" />
+<img src="/images/Screen%20Shot%202015-12-09%20at%2020.43.58.png" title="Screen_Shot_2015-12-09_at_20.43.58.png" width="220" height="220" alt="Screen_Shot_2015-12-09_at_20.43.58.png" />
+<img src="/images/Screen%20Shot%202015-12-09%20at%2020.44.05.png" title="Screen_Shot_2015-12-09_at_20.44.05.png" width="220" height="220" alt="Screen_Shot_2015-12-09_at_20.44.05.png" />
+<img src="/images/Screen%20Shot%202015-12-09%20at%2020.44.15.png" title="The effect of scale on canvas size" width="220" height="220" alt="The effect of scale on canvas size" />
 
 **scale** is the [Parameter](/Parameters.md "Parameters") that controls how large of a [Canvas](/Canvas.md "Canvas") you have to work on. Scale does not affect physics, so everything will behave as expected. *Scale* can be used as a way to "zoom" in on particles. First you must pause so that your creation does not get pushed over the edge if you move the screen, then you can change *scale* so that you can see better and work easier, then you must change scale back to the previous value, re-center your creation if you moved it, and unpause in order to not damage anything.
 

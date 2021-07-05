@@ -1,4 +1,4 @@
-![Rigid that's been linked.](/images/Link1.jpg "fig:Rigid that's been linked.")**Linking particles** is a useful technique in OE-Cake that allows distant particles to move as if they are stuck together. This technique allows very complicated creations to be made.
+![Rigid that's been linked.](/images/Link1.jpg "Rigid that's been linked.")**Linking particles** is a useful technique in OE-Cake that allows distant particles to move as if they are stuck together. This technique allows very complicated creations to be made.
 
 ## Methods
 

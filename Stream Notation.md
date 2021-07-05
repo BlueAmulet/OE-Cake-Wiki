@@ -10,14 +10,14 @@ So in essence, all Inflow streams can be written with { , , , }\[ , , , \], alth
 
 ### Regular Streams
 
-![Serial Stream.\|alt=](/images/Stream%20R%20serial2.png "fig:Serial Stream.|alt=")
+![Serial Stream.\|alt=](/images/Stream%20R%20serial2.png "Serial Stream.|alt=")
 Regular Streams are Streams which are well... regular. They repeat. In general they are shown with the letter R. So if you're not sure what exact kind of stream you're seeing, or even if you can't tell apart the individual streams but can tell it's regular on a whole side, then you can type R for the whole side. {r r r p3 r p4... can become {R... if you can't tell.
 
 #### <big>Serial Streams</big>
 
 Serial Streams are the most ordered of the Streams, and they're the most common. They're a continuous, unbroken chain of particles. They are shown with the symbol "r".
 
-<big>Periodic Streams</big>![Periodc Stream with period 2. (p2 or p(10).)\|alt=](/images/Stream%20R%20periodic.png "fig:Periodc Stream with period 2. (p2 or p(10).)|alt=")Periodic Streams are another common Regular Stream. They're continuous like Serial Streams, but their particles only appear at some division of the serial frequency.
+<big>Periodic Streams</big>![Periodc Stream with period 2. (p2 or p(10).)\|alt=](/images/Stream%20R%20periodic.png "Periodc Stream with period 2. (p2 or p(10).)|alt=")Periodic Streams are another common Regular Stream. They're continuous like Serial Streams, but their particles only appear at some division of the serial frequency.
 
 You can show periodic streams in two ways: Period Length and Period Order.
 
@@ -36,7 +36,7 @@ If we don't know the period, or it's too hard to count, but we are sure it's per
 -   and so on.
 
   
-<big>Diverging Serial Streams</big>![DS Stream with period 3. Notice how it's the separate but really close angles before repeating. This one would be written as r3.\|alt=](/images/Stream%20R%20divergingserial.png "fig:DS Stream with period 3. Notice how it's the separate but really close angles before repeating. This one would be written as r3.|alt=")Diverging Serial Streams are a special kind of Serial Stream that are periodic, but are Serial in their creation. They usually happen when Serial Streams are disturbed in some way. They come from the same inflow source.
+<big>Diverging Serial Streams</big>![DS Stream with period 3. Notice how it's the separate but really close angles before repeating. This one would be written as r3.\|alt=](/images/Stream%20R%20divergingserial.png "DS Stream with period 3. Notice how it's the separate but really close angles before repeating. This one would be written as r3.|alt=")Diverging Serial Streams are a special kind of Serial Stream that are periodic, but are Serial in their creation. They usually happen when Serial Streams are disturbed in some way. They come from the same inflow source.
 
 Diverging Serial Streams are shown with "r", like Serial Streams, but have a number in front to show the disturbance period. Basically, this is the period at which the small variations repeat. If there is no repetition, and it simply varies randomly or we can't tell the disturbance period, we write r^ (r with a carat).
 
@@ -46,7 +46,7 @@ Irregular Streams are Streams which don't repeat, but ***don't have to be chaoti
 
 #### <big>Pattern Streams</big>
 
-![Pattern Stream. Notice how it's too complicated to type out using Regular Stream notation, but it's still not chaotic.\|alt=](/images/Stream%20C%20pattern.png "fig:Pattern Stream. Notice how it's too complicated to type out using Regular Stream notation, but it's still not chaotic.|alt=")Pattern Streams are Streams which aren't Regular, but have a pattern. Although they're technically Regular, there's too many streams and too complicated of a Period Order to type out, and you don't need to. Be careful for big scale patters, those are Pattern streams too.
+![Pattern Stream. Notice how it's too complicated to type out using Regular Stream notation, but it's still not chaotic.\|alt=](/images/Stream%20C%20pattern.png "Pattern Stream. Notice how it's too complicated to type out using Regular Stream notation, but it's still not chaotic.|alt=")Pattern Streams are Streams which aren't Regular, but have a pattern. Although they're technically Regular, there's too many streams and too complicated of a Period Order to type out, and you don't need to. Be careful for big scale patters, those are Pattern streams too.
 
 Pattern Stream can blur the lines between Regular and Irregular, but most of the time they're chaotic enough to not be able to be written as individual sides. But in technicality, all Pattern Streams are just a combination of Regular Streams, and all Combinations or even single streams are Pattern streams.
 
@@ -54,7 +54,7 @@ Pattern Streams are shown with the symbol "t". They apply to a whole side.
 
 #### <big>Random Streams</big>
 
-![Random Stream. Notice the particles touching, and how that disrupts the streams.\|alt=](/images/Stream%20C%20random.png "fig:Random Stream. Notice the particles touching, and how that disrupts the streams.|alt=")Random Streams are streams which are completely random. Since there's particle interaction (particles touch eachother), It's impossible to write whereas Pattern Streams were only ludicrously hard to write.
+![Random Stream. Notice the particles touching, and how that disrupts the streams.\|alt=](/images/Stream%20C%20random.png "Random Stream. Notice the particles touching, and how that disrupts the streams.|alt=")Random Streams are streams which are completely random. Since there's particle interaction (particles touch eachother), It's impossible to write whereas Pattern Streams were only ludicrously hard to write.
 
 Random Streams are shown with x. They apply to a whole side.
 
@@ -93,15 +93,13 @@ Here's the main rules of Stream Notation.
 
 ### Example One
 
-<figure>
 <img src="/images/Example%20rectangle1.png" width="300" />
-</figure>
 
 Take this Inflow rectangle. First, let's look at the emission. As you can see, it's all lines and because of this, it's all Regular. Now let's mark which ones are corners, and which ones are sides.
-<img src="/images/Example%20rectangle2.png" title="fig:" width="300" />This is good, and will tell us which component to add to. Now we will try to identify the types. In here, we have serial streams, which appear as the denser streams, and then we have periodic streams, which appear as the weaker streams. Now these look like they appear with half the frequency. Since these aren't very complicated, we'll use the Period Length version.
+<img src="/images/Example%20rectangle2.png" width="300" />This is good, and will tell us which component to add to. Now we will try to identify the types. In here, we have serial streams, which appear as the denser streams, and then we have periodic streams, which appear as the weaker streams. Now these look like they appear with half the frequency. Since these aren't very complicated, we'll use the Period Length version.
 
 So that means we have r and p2.
-<img src="/images/Example%20rectange3.png" title="fig:" width="300" />Now that we have all of this information, we can begin constructing the notation itself.
+<img src="/images/Example%20rectange3.png" width="300" />Now that we have all of this information, we can begin constructing the notation itself.
 
 1.  Let's begin from the Top side, and the lefternmost stream. Which is p2. Now we have {p2 so far, not very impressive but eh.
 2.  Next let's continue the side, it's all p2 so we can write {p2 p2 p2 p2 . Now we had a rule where if there was multiple repeating streams of the same kind, we could add an asterisk. So let's do that to get {p2\*4 .
@@ -114,11 +112,11 @@ So that means we have r and p2.
 
 ### Example Two
 
-<img src="/images/Example%202rectangle1.png" title="fig:Example_2rectangle1.png" width="400" alt="Example_2rectangle1.png" />
+<img src="/images/Example%202rectangle1.png" title="Example_2rectangle1.png" width="400" alt="Example_2rectangle1.png" />
 Yikes, this one's pretty hard. Let's give it a go though. First let's mark the corners and sides again.
-<img src="/images/Example%202rectangle2.png" title="fig:Example_2rectangle2.png" width="400" alt="Example_2rectangle2.png" />
+<img src="/images/Example%202rectangle2.png" title="Example_2rectangle2.png" width="400" alt="Example_2rectangle2.png" />
 There we go, now let's try our best to identify the streams. Don't worry, we don't have to get everything.
-<img src="/images/Example%202rectangle3.png" title="fig:Example_2rectangle3.png" width="400" alt="Example_2rectangle3.png" />
+<img src="/images/Example%202rectangle3.png" title="Example_2rectangle3.png" width="400" alt="Example_2rectangle3.png" />
 
 Now let's begin the notation process.
 
@@ -130,7 +128,7 @@ Now let's begin the notation process.
     1.  Now the corners look like a pattern maybe, but that's not actually because of the Stream, it's rather the "t" sides disturbing the corner.
 
 But we can still identify some streams.
-<img src="/images/Example%202rectangle4.png" title="fig:Example_2rectangle4.png" width="400" alt="Example_2rectangle4.png" />We have massive room for improvement.
+<img src="/images/Example%202rectangle4.png" title="Example_2rectangle4.png" width="400" alt="Example_2rectangle4.png" />We have massive room for improvement.
 
 1.  First, let's get the original into here: {R, t, R, t}\[r\].
 2.  Now let's add the Streams we know, in order.
@@ -140,8 +138,8 @@ But we can still identify some streams.
 
 ### Example Three
 
-<img src="/images/Example%20circle1.png" title="fig:Example_circle1.png" width="450" alt="Example_circle1.png" />This is a circles, so we won't have corners, so no need for the corner component. And since there's no corners, we also won't use commas.
-<img src="/images/Example%20circle2.png" title="fig:Example_circle2.png" width="450" alt="Example_circle2.png" />Now, let's begin.
+<img src="/images/Example%20circle1.png" title="Example_circle1.png" width="450" alt="Example_circle1.png" />This is a circles, so we won't have corners, so no need for the corner component. And since there's no corners, we also won't use commas.
+<img src="/images/Example%20circle2.png" title="Example_circle2.png" width="450" alt="Example_circle2.png" />Now, let's begin.
 
 1.  As you've heard in syntax, we start from the topmost right-half stream. And then we go clockwise, that's it.
 2.  So we'll go {r^ r3 p2\*4 r3\*2 p2\*4 r>r^\*2 r r3\*3 r}
@@ -149,9 +147,9 @@ But we can still identify some streams.
 
 ### Example Four
 
-<img src="/images/Example%20pacman1.png" title="fig:Example_pacman1.png" width="450" alt="Example_pacman1.png" />Now this is the hardest of them all, it's not sideless or cornerless, it's not a rectangle, and it has a lot of interaction. Let's break it down. Let's begin with the corners and sides.
-<img src="/images/Example%20pacman2.png" title="fig:Example_pacman2.png" width="450" alt="Example_pacman2.png" />There we go. This is much nicer. Now let's begin marking the Streams.
-<img src="/images/Example%20pacman3.png" title="fig:" width="450" />
+<img src="/images/Example%20pacman1.png" title="Example_pacman1.png" width="450" alt="Example_pacman1.png" />Now this is the hardest of them all, it's not sideless or cornerless, it's not a rectangle, and it has a lot of interaction. Let's break it down. Let's begin with the corners and sides.
+<img src="/images/Example%20pacman2.png" title="Example_pacman2.png" width="450" alt="Example_pacman2.png" />There we go. This is much nicer. Now let's begin marking the Streams.
+<img src="/images/Example%20pacman3.png" width="450" />
 
 1.  First, let's find the side to start. Since there's no top face, we start from the one that leans most to the top. Which is the arc of the circle. So we begin from there. We get {r^ r3 p2\*4 r3\*2 p2\*4 r\<r^\*2 r r3 .
 2.  Next, we deal with the other side. Since the second side is blank we add an underscore to show it's blank. So we get {r^ r3 p2\*4 r3\*2 p2\*4 r\<r^\*2 r r3, \_ .

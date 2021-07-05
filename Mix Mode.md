@@ -4,4 +4,4 @@ To make a new material, simply press "Esc", type in the shortcuts for the materi
 
 There is no way to save mixed materials.
 
-[Category:mochi](/Categorymochi.md "Category:mochi") [Category:Water](/CategoryWater.md "Category:Water") [Category:Water vinegar](/CategoryWater%20vinegar.md "Category:Water vinegar") [Category:False tags](/CategoryFalse%20tags.md "Category:False tags")
+[Category:mochi](/Category_mochi.md "Category:mochi") [Category:Water](/Category_Water.md "Category:Water") [Category:Water vinegar](/Category_Water%20vinegar.md "Category:Water vinegar") [Category:False tags](/Category_False%20tags.md "Category:False tags")

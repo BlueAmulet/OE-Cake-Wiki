@@ -1,4 +1,4 @@
-![Fuel. A fire hazard seen in levels, and a house made of fuel being burned down.](/images/Fuel.jpg "fig:Fuel. A fire hazard seen in levels, and a house made of fuel being burned down.")
+![Fuel. A fire hazard seen in levels, and a house made of fuel being burned down.](/images/Fuel.jpg "Fuel. A fire hazard seen in levels, and a house made of fuel being burned down.")
 **Fuel** is the burny stuff you see in a lot of OE-Cake videos. It burns. It's a solid material that catches on fire when exposed to Hot. Fuel can be added to any material to make it burn. As Fuel burns, it disintegrates as particles disappear. Fuel is responsible for the [Fire](/Fire%20%28shader%29.md "Fire (shader)") animation in Shader and Blob mode.
 
 ### Uses
@@ -9,4 +9,4 @@ Fuel + Water is difficult to burn because it puts itself out. However Fuel and W
 
 Fuel [burns](/Burning.md "Burning") in an unusual way. Burning does not destroy all of the [links](/Linking%20particles.md "Linking particles") between particles, causing a crumbling structure to have "floating bits" as sections form groups while it collapses. Save-file analysis has revealed that this is caused by an internal limitation of OE-Cake - when Rigid burns, it separates into smaller Rigid groups. The game stores the number of Rigid groups as a single byte - creating a maximum of 256 allowable groups of Rigid. Extremely large burning structures easily surpass this, complicating the ability for Fire and Rigid to play together.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

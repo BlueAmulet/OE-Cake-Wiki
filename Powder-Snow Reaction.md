@@ -6,4 +6,4 @@ AY is a liquid, but PAY is a solid
 
 NY is a solid, but PNY can be a liquid
 
-The material PAY resembles a crystal, almost like ice. It has a repeating structure of particles. The material PNY is a crystal when standardDistance is larger than about 0.55, but turns into plasma below that number. Try it out: fill your screen with PNY, save the file somewhere , open it with a text editor, scroll to the bottom, change <em>standardDistance</em> to 0.5, save, and open it. The PNY will turn into plasma. ![Time crystal, anyone?\|centre\|frame](/images/Isotope%200.563 "fig:Time crystal, anyone?|centre|frame")
+The material PAY resembles a crystal, almost like ice. It has a repeating structure of particles. The material PNY is a crystal when standardDistance is larger than about 0.55, but turns into plasma below that number. Try it out: fill your screen with PNY, save the file somewhere , open it with a text editor, scroll to the bottom, change <em>standardDistance</em> to 0.5, save, and open it. The PNY will turn into plasma. ![Time crystal, anyone?\|centre\|frame](/images/Isotope%200.563 "Time crystal, anyone?|centre|frame")

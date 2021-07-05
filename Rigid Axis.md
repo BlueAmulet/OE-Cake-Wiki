@@ -1,4 +1,4 @@
-![Rigid axis on its own, and a Heater combination being used to boil water.](/images/Rigid%20axis.jpg "fig:Rigid axis on its own, and a Heater combination being used to boil water.")
+![Rigid axis on its own, and a Heater combination being used to boil water.](/images/Rigid%20axis.jpg "Rigid axis on its own, and a Heater combination being used to boil water.")
 **Rigid Axis** is like [Wall](/Wall.md "Wall"), but it rotates around its center-point. It is often used to make a hammer or other rotating device by putting Jet inside one end of it. This makes it spin wildly.
 
 Uses
@@ -9,4 +9,4 @@ The material **XOR** is useful for cutting [perfect circles](/Circles%20%28Craft
 
 Axis can be moved around when mixed with [User](/User.md "User"). Axis only seems to work with Rigid.
 
-[Category:Materials](/CategoryMaterials.md "Category:Materials")
+[Category:Materials](/Category_Materials.md "Category:Materials")

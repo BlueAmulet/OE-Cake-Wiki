@@ -17,7 +17,7 @@ Elastic's stretchiness permits particle motions which closely mimic waveforms an
 Sparse elastic can efficiently simulate lossless transmission of force. By reducing particle contact purely elastic interactions can be studied, which resemble distortions in an electromagnetic field. Phonons in the matrix are analogous to photons.  
 ==== Spin-Charged Elastic ====
 Particle [polarization](/polarization.md "polarization") in Elastic adds an additional degree of freedom to this field. SCE Type A resembles a chaotic, unaligned field in a ferrous metal. Stroking a steel pin with a magnet would polarize its field into alignment, and degaussing would re-randomize it in a comparable manner.  
-![Particles of String displaying locational correlation when linked to a vibrating particle. The particles are correlated around the two "poles" formed by the effect, hence the implication of magnetism.\|alt=](/images/Magnet.png "fig:Particles of String displaying locational correlation when linked to a vibrating particle. The particles are correlated around the two "poles" formed by the effect, hence the implication of magnetism.|alt=")
+![Particles of String displaying locational correlation when linked to a vibrating particle. The particles are correlated around the two "poles" formed by the effect, hence the implication of magnetism.\|alt=](/images/Magnet.png "Particles of String displaying locational correlation when linked to a vibrating particle. The particles are correlated around the two "poles" formed by the effect, hence the implication of magnetism.|alt=")
 
 ### String Pendulum
 

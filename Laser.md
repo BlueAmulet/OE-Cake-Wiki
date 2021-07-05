@@ -1,4 +1,4 @@
-![A picture of a stationary laser](/images/Laser.jpg "fig:A picture of a stationary laser")
+![A picture of a stationary laser](/images/Laser.jpg "A picture of a stationary laser")
 A **laser** is an [object](/object.md "object") that is one molecule wide, like a [domino](/domino.md "domino"), and explodes when an object touches them, spreading itself over the playfield. Every laser includes [inflow](/inflow%20%28element%29.md "inflow (element)") in its mixture. There are three types of lasers, melting lasers and exploding lasers. Melting lasers melt the objects that touch them, while exploding lasers use force. Another type of laser, the outflow-laser, uses [outflow](/outflow%20%28element%29.md "outflow (element)") to destroy the target.
 
 ## How To Use Lasers
