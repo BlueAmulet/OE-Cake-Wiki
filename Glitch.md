@@ -24,4 +24,4 @@ Dense Rigid rotational damping
 
 ### Broken Save Files
 
-When loading a save, sometimes things don't always go well! If you load your favorite save and find everything is all scrambled up, it can [often be fixed](/.oec%20File%20Manipulation.md#Un-breaking_a_Save ".oec File Manipulation"). Whatever you do, don't hit Save in the game or everything will be lost.
+When loading a save, sometimes things don't always go well! If you load your favorite save and find everything is all scrambled up, it can [often be fixed](/.oec%20File%20Manipulation.md#Un-breaking-a-Save ".oec File Manipulation"). Whatever you do, don't hit Save in the game or everything will be lost.

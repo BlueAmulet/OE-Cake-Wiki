@@ -6,7 +6,7 @@ A **laser** is an [object](/object.md "object") that is one molecule wide, like 
 To create a laser, pick a laser recipe and draw a 1-particle thick but much longer line of particles (like a [stack](/Stacking.md "Stacking")). If it doesn't expand, try using the move tool to shake it around.
 
 An example of a melting laser [material](/material.md "material") is [SUSHI](/SUSHI.md "SUSHI"). [DIY](/DIY.md "DIY") is a high-powered exploding laser. [KILO](/KILO.md "KILO") is an outflow-laser.
-Another powerful exploding laser is [JHGI](/Recipes.md#Jet_(J) "Recipes"). It explodes and burns.
+Another powerful exploding laser is [JHGI](/Recipes.md#Jet-(J) "Recipes"). It explodes and burns.
 
 IFGHT is a versatile laser material, because it can be used vertically or horizontally.It is accelerated by the [Tensile](/Tensile.md "Tensile") and [Inflow](/Inflow.md "Inflow") properties. When it hits [Elastic](/Elastic.md "Elastic"), For example, it pierces through the elastic and makes globs of burning gas.
 

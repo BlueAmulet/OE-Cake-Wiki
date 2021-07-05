@@ -82,7 +82,7 @@ Recipes that act similar to one of their ingredients, primarily improved in some
 
   
 ===Lasers===
-See [Laser Recipes](/Laser.md#Laser_Recipes "Laser") for more laser recipes.
+See [Laser Recipes](/Laser.md#Laser-Recipes "Laser") for more laser recipes.
 
 | Recipe | Name | Properties                  | Uses                                                                           | Notes                                                                  |
 |--------|------|-----------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------|
